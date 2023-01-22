@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mku-CS
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Linux, Windows Server AD menagement, Python, Pentesting, 
+- 🌱 I’m currently learning Linux, Python, Pentesting, 
 
 <!---
 mku-CS/mku-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
